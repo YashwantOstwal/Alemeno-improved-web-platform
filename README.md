@@ -7,3 +7,8 @@ A preview of the website uptil medium sized screens:
 
 
 ![AlemenoSm](https://github.com/YashwantOstwal/Alemeno-improved-web-platform/assets/140978232/c1e0d12b-c1f1-4320-950e-ff52831b42ab)
+
+
+Technologies Used :
+1)React.js for structuring and DOM manipulation.
+2)TailwindCSS for styling.
